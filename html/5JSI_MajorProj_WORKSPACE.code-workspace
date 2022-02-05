@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\..\\..\\Session 10\\tableGenerate_JS"
+		},
+		{
+			"path": "..\\..\\..\\Arrays_Assignement_Paul_Stuart"
+		},
+		{
+			"path": "..\\..\\..\\..\\Session 7\\Student_Files_Session_files"
+		},
+		{
+			"path": "..\\..\\..\\..\\Session 7\\Alternate File Read"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "TranquilServices_Site"
+	}
+}

@@ -1,0 +1,29 @@
+{
+ "folders": [
+    {
+        "path": "C:\\xampp\\htdocs\\cloudstudio"
+    },
+    {
+        "path": "..\\..\\..\\..\\Session 12\\5JSI_Session10_solutions"
+    },
+    {
+        "path": "C:\\xampp\\htdocs\\TranquilServices_Site"
+    }
+],
+ "settings": {
+  "liveServer.settings.multiRootWorkspaceName": "TranquilServices_Site",
+  "sqltools.connections": [{
+   "mysqlOptions": {
+    "authProtocol": "default"
+   },
+   "previewLimit": 50,
+   "server": "localhost",
+   "port": 3306,
+   "driver": "MySQL",
+   "name": "MySQL_Connections",
+   "database": "tranquilserviceDB",
+   "username": "root",
+   "password": ""
+  }]
+ }
+}

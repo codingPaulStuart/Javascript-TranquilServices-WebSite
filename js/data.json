@@ -1,0 +1,23 @@
+{
+    "services": [{
+            "name": "Counselling",
+            "text": "We offer both individual and group counselling sessions with trained professionals who can help you deal with any problems in your life or simple provide advice on ways to manage things a little better."
+        },
+        {
+            "name": "Mental",
+            "text": "We offer a range of mental health support and coping services including counselling, meditation and mindfulness training, stress management and many more services."
+        },
+        {
+            "name": "Financial",
+            "text": "Our trained financial analysts can work with you to help you manage your finances and budget your income to achieve the financial goals that you want."
+        },
+        {
+            "name": "Family",
+            "text": "If you are having difficulties at home, we offer a range of services to help including marriage counselling and parenting workshops."
+        },
+        {
+            "name": "Life",
+            "text": "Having trouble losing weight, maintaining a healthy diet or general living a healthy lifestyle? WE have support services, lifestyle coaches, nutritionists and personal trainers for all levels here and waiting to help you become the best and healthiest you and to get you feeling good about yourself again."
+        }
+    ]
+}
